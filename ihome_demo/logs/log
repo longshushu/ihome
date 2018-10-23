@@ -1,0 +1,305 @@
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:33 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:34 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:35 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:36 'BaseQuery' object has no attribute 'name'
+ERROR profile.py:37 (exceptions.TypeError) Required argument 'year' (pos 1) not found [SQL: u'UPDATE ih_user_profile SET update_time=%s, name=%s WHERE ih_user_profile.id = %s'] [parameters: [{}]]
+ERROR profile.py:36 Class 'flask_sqlalchemy.BaseQuery' is not mapped
+ERROR profile.py:36 Class 'flask_sqlalchemy.BaseQuery' is not mapped
+ERROR app.py:1423 Exception on /api/v1.0/user/name [PUT]
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/python/desktop/flask/ihome_demo/ihome/utils/commons.py", line 26, in wrapper
+    return view_func(*args, **kwargs)
+  File "/home/python/desktop/flask/ihome_demo/ihome/api_1_0/profile.py", line 37, in change_user_name
+    session["name"] = name
+NameError: global name 'session' is not defined
+ERROR profile.py:91 'SQLAlchemy' object has no attribute 'commit'
+ERROR _internal.py:88 Error on request:
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/werkzeug/serving.py", line 258, in execute
+    application_iter = app(environ, start_response)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/app.py", line 1813, in wsgi_app
+    ctx.push()
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/ctx.py", line 321, in push
+    self.session = self.app.open_session(self.request)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/app.py", line 825, in open_session
+    return self.session_interface.open_session(self, request)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask_session/sessions.py", line 132, in open_session
+    val = self.redis.get(self.key_prefix + sid)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/client.py", line 976, in get
+    return self.execute_command('GET', name)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/client.py", line 673, in execute_command
+    connection.send_command(*args)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/connection.py", line 610, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+ERROR _internal.py:88 Error on request:
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/werkzeug/serving.py", line 258, in execute
+    application_iter = app(environ, start_response)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/app.py", line 1813, in wsgi_app
+    ctx.push()
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/ctx.py", line 321, in push
+    self.session = self.app.open_session(self.request)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/app.py", line 825, in open_session
+    return self.session_interface.open_session(self, request)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask_session/sessions.py", line 132, in open_session
+    val = self.redis.get(self.key_prefix + sid)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/client.py", line 976, in get
+    return self.execute_command('GET', name)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/client.py", line 673, in execute_command
+    connection.send_command(*args)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/connection.py", line 610, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+ERROR _internal.py:88 Error on request:
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/werkzeug/serving.py", line 258, in execute
+    application_iter = app(environ, start_response)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/app.py", line 1813, in wsgi_app
+    ctx.push()
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/ctx.py", line 321, in push
+    self.session = self.app.open_session(self.request)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/app.py", line 825, in open_session
+    return self.session_interface.open_session(self, request)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask_session/sessions.py", line 132, in open_session
+    val = self.redis.get(self.key_prefix + sid)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/client.py", line 976, in get
+    return self.execute_command('GET', name)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/client.py", line 673, in execute_command
+    connection.send_command(*args)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/connection.py", line 610, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+ERROR _internal.py:88 Error on request:
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/werkzeug/serving.py", line 258, in execute
+    application_iter = app(environ, start_response)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/app.py", line 1813, in wsgi_app
+    ctx.push()
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/ctx.py", line 321, in push
+    self.session = self.app.open_session(self.request)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask/app.py", line 825, in open_session
+    return self.session_interface.open_session(self, request)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/flask_session/sessions.py", line 132, in open_session
+    val = self.redis.get(self.key_prefix + sid)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/client.py", line 976, in get
+    return self.execute_command('GET', name)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/client.py", line 673, in execute_command
+    connection.send_command(*args)
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/connection.py", line 610, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/python/.virtualenvs/flask/lib/python2.7/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+ERROR app.py:1423 Exception on /api/v1.0/user/info [POST]
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/python/desktop/flask/ihome_demo/ihome/utils/commons.py", line 27, in wrapper
+    return view_func(*args, **kwargs)
+  File "/home/python/desktop/flask/ihome_demo/ihome/api_1_0/houses.py", line 69, in get_house_info
+    user_id = g.user_id
+NameError: global name 'g' is not defined
+ERROR app.py:1423 Exception on /api/v1.0/user/info [POST]
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/python/desktop/flask/ihome_demo/ihome/utils/commons.py", line 27, in wrapper
+    return view_func(*args, **kwargs)
+  File "/home/python/desktop/flask/ihome_demo/ihome/api_1_0/houses.py", line 75, in get_house_info
+    address = house_data.get("address")  # 房屋地址
+NameError: global name 'house_data' is not defined
+ERROR houses.py:132 global name 'db' is not defined
+ERROR app.py:1423 Exception on /api/v1.0/user/info [POST]
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/python/desktop/flask/ihome_demo/ihome/utils/commons.py", line 27, in wrapper
+    return view_func(*args, **kwargs)
+  File "/home/python/desktop/flask/ihome_demo/ihome/api_1_0/houses.py", line 133, in get_house_info
+    db.session.rollback()
+NameError: global name 'db' is not defined
+ERROR houses.py:132 (_mysql_exceptions.OperationalError) (1048, "Column 'user_id' cannot be null") [SQL: u'INSERT INTO ih_house_info (create_time, update_time, user_id, area_id, title, price, address, room_count, size, unit, capacity, beds, deposit, min_days, max_days, order_count, index_image_url) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (datetime.datetime(2018, 10, 14, 11, 0, 8, 245908), datetime.datetime(2018, 10, 14, 11, 0, 8, 245965), None, u'2', '\xe6\x9b\xbe\xe5\xaf\xb9\xe6\xad\xa4', 33300, '\xe6\xb5\x8b\xe8\xaf\x95', u'33', u'333', '\xe6\xb5\x8b\xe8\xaf\x95\xe6\x88\xb7\xe5\x9e\x8b', u'33', '\xe5\xa4\xa7\xe5\xba\x8a', 222200, u'3', u'0', 0, '')]
+ERROR houses.py:132 (_mysql_exceptions.OperationalError) (1048, "Column 'user_id' cannot be null") [SQL: u'INSERT INTO ih_house_info (create_time, update_time, user_id, area_id, title, price, address, room_count, size, unit, capacity, beds, deposit, min_days, max_days, order_count, index_image_url) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'] [parameters: (datetime.datetime(2018, 10, 14, 11, 1, 46, 767851), datetime.datetime(2018, 10, 14, 11, 1, 46, 767898), None, u'3', '\xe6\xb5\x8b\xe8\xaf\x95', 1111100, '\xe6\xb5\x8b\xe8\xaf\x95', u'19', u'323', '\xe6\xb5\x8b\xe8\xaf\x95\xe6\x88\xb7\xe5\x9e\x8b', u'33', '\xe5\xa4\xa7\xe5\xba\x8a', 32300, u'2', u'0', 0, '')]
+ERROR app.py:1423 Exception on /api/v1.0/sms_code/13411111111 [GET]
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/python/desktop/flask/ihome_demo/ihome/api_1_0/verify_code.py", line 183, in get_sms_code
+    result_obj = send_sms.delay(mobile, [sms_code, int(constants.SMS_CODE_REDIS_EXPIRES) / 60], 1)
+AttributeError: 'module' object has no attribute 'delay'
+ERROR houses.py:172 get() got an unexpected keyword argument 'user_id'
+ERROR houses.py:172 get() got an unexpected keyword argument 'user_id'
+ERROR houses.py:173 get() got an unexpected keyword argument 'user_id'
+ERROR houses.py:173 get() got an unexpected keyword argument 'id'
+ERROR houses.py:173 Entity '<class 'ihome.models.User'>' has no property 'user_id'
+ERROR houses.py:173 'BaseQuery' object has no attribute 'houses'
+ERROR app.py:1423 Exception on /api/v1.0/user/index [GET]
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/python/desktop/flask/ihome_demo/ihome/api_1_0/houses.py", line 201, in get_house_index
+    current_app.logger(e)
+TypeError: 'DebugLogger' object is not callable
+ERROR houses.py:201 filter_by() takes exactly 1 argument (2 given)
+ERROR houses.py:202 filter_by() takes exactly 1 argument (2 given)
+ERROR app.py:1423 Exception on /api/v1.0/houses [GET]
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/python/desktop/flask/ihome_demo/ihome/api_1_0/houses.py", line 337, in get_house_list
+    if conflict_house_ids:
+UnboundLocalError: local variable 'conflict_house_ids' referenced before assignment
+ERROR app.py:1423 Exception on /api/v1.0/houses [GET]
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/python/.virtualenvs/flask/local/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/python/desktop/flask/ihome_demo/ihome/api_1_0/houses.py", line 337, in get_house_list
+    if conflict_house_ids:
+UnboundLocalError: local variable 'conflict_house_ids' referenced before assignment
